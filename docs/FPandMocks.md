@@ -8,3 +8,5 @@ In functional programming, our primary building block is the function.
 - It doesn't have any internal state.
 - Invoking it won't cause any side effects
 
+[Next: Functional Programming](./FunctionalProgramming.md)
+
