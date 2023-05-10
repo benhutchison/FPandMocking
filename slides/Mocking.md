@@ -19,7 +19,7 @@ test a complex system composed of many components.
 For a simple example, consider a hypothetical program that can render colored shapes
 onto the screen. Let there be three colors and three shapes
 
-```scala
+```scala mdoc
 enum Shape:
     case Square, Circle, Triangle
     
